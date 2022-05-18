@@ -1,2 +1,1 @@
-# simple_shell
-build simple shell
+simple shell
